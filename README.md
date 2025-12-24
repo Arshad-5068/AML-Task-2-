@@ -69,4 +69,5 @@ pip install -r requirements.txt  # if you create one
 - Build predictive models to forecast unemployment rate (ARIMA, Prophet, or supervised ML methods).
 - Integrate additional socio-economic datasets for richer insights (education, GDP, sectoral employment).
 
-##Result
+## Result
+![Input Form](https://github.com/Arshad-5068/AML-Task-2-/blob/main/result.png?raw=true)
